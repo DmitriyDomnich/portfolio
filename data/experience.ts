@@ -23,7 +23,7 @@ export const experience: Experience[] = [
   },
   {
     role: "Frontend Engineer",
-    company: "Natife",
+    company: "Upwork",
     period: "Nov 2021 — Dec 2022",
     description:
       "Delivered frontend projects for clients across various domains. Worked independently across the full project lifecycle — requirements gathering, implementation, and delivery — with a focus on React, TypeScript, and responsive UI.",
