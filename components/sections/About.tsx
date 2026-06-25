@@ -33,7 +33,7 @@ export default function About() {
 
         <div className="space-y-4" style={{ color: "var(--text-secondary)" }}>
           <p>
-            Five years of commercial experience building full-stack platforms
+            Four years of commercial experience building full-stack platforms
             end-to-end — from complex frontend UIs to backend APIs, real-time
             systems, and cloud infrastructure.
           </p>
