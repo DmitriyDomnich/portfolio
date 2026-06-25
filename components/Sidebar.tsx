@@ -115,7 +115,7 @@ export default function Sidebar() {
         />
         <div className="flex justify-center gap-3">
           <a
-            href="mailto:dmytro.domnich@gmail.com"
+            href="mailto:d.domnich002@gmail.com"
             className="p-2 rounded-lg transition-all duration-200"
             style={{
               color: "var(--text-secondary)",
